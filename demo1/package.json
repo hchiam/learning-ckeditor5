@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-font": "38.0.1"
+  }
+}
