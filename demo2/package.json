@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-font": "38.0.1"
+  }
+}
