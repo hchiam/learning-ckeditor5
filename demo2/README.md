@@ -11,3 +11,5 @@ Try uncommenting/commenting these 2 in index.html:
 ```
 
 then run `npm run dev` (`parcel index.html`) versus `npm run open` (`open index.html`)
+
+for some reason running in parcel doesn't work for me (i have parcel 1.12.5)
